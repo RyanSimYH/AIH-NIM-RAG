@@ -60,7 +60,7 @@ Use the context window feature to understand how the RAG model incorporates retr
 
 2. ##### Add your own knowledge
 - Click the document upload button in the top right corner
-- Upload your own documents to expand the knowledge base or you can use the prepared documents in the repo
+- Upload your own documents to expand the knowledge base or you can use the prepared documents in the repo: [Dell-Nvidia-RAG](https://github.com/RyanSimYH/AIH-NIM-RAG/blob/main/H19975-DRD-Nvidia-RAG.pdf)
 - Important: Use only non-sensitive documents for testing to avoid security complications
 Supported formats typically include PDF, TXT, and other common document types
 
