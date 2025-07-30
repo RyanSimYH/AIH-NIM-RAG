@@ -2,6 +2,18 @@
 
 This guide provides step-by-step instructions for setting up and running the Basic RAG (Retrieval-Augmented Generation) example using LangChain.
 
+## Connecting to the Lab Enviroment
+
+### Terminal Setup
+On your device, please ensure that you have a terminal with SSH installed
+
+### Connecting to the lab enviroment
+On your terminal, please enter
+```bash
+ssh user@<HOST-IP>
+```
+where <HOST-IP> is the IP address provided by the organizers.
+
 ## Setup Instructions
 
 ### 1. Navigate to the Project Directory
